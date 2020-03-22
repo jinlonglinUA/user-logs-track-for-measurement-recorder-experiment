@@ -1,4 +1,8 @@
 # user-logs-track-for-measurement-recorder-experiment
+# Created by Jinlong Lin 
+# My personal main page https://www2.cs.arizona.edu/~jinlonglin/ 
+# Bio-semantics Research Group is led by Professor Hong Cui
+
 The project is to convert the wealth of human-readable information to digital computer-readable data.
 user_logs_UA_last_days.sql record the experiment participant's operation on one biology's wiki website in Information School 
 Bio-semantics Research Group.
