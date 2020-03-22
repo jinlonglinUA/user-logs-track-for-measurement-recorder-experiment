@@ -8,6 +8,8 @@ The website record the website experiment participant's operations and time they
 they take in this operation etc.
 The Bio-semantics Research Group aim to  convert the wealth of human-readable information like human hebavior data to digital computer-readable data.
 
-## Created by Jinlong Lin 
-## My personal main page https://www2.cs.arizona.edu/~jinlonglin/ 
-## Bio-semantics Research Group is led by Professor Hong Cui
+Created by Jinlong Lin. 
+
+My personal main page https://www2.cs.arizona.edu/~jinlonglin/ .
+
+Bio-semantics Research Group is led by Professor Hong Cui.
