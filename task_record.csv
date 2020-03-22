@@ -1,0 +1,12 @@
+user_id, task, term, definition, completion_time
+99,length of cell phone,left upper corner of phone,corner of phone,12.0
+105,length of cell phone,left upper corner of phone,upper left corner ,8.0
+106,length of leaf s210,left side,left side,4.0
+106,length of leaf height s210,top of leaf,top,3.0
+107,length of cell phone by S211,upper left screen corner,top,4.0
+107,length of whole leaf,tip of leaf,top,3.0
+44,length of cell phone S208,top,the top the highest point,20.0
+44,length of eyes S208,side,the width,14.0
+108,length of cellphone (S212),Top corner of screen,Top corner of the phone screen,15.0
+108,length of cellphone (S212),Top corner of screen,Top corner of the phone screen,8.0
+108,length of cellphone (S212),Top,null,2.0
